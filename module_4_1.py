@@ -3,8 +3,8 @@ import true_math as tm
 
 
 
-fm.divide(1, 2)
-tm.divide(2, 0)
-fm.divide(1, 0)
-tm.divide(4, 2)
+print(fm.divide(1, 2))
+print(tm.divide(2, 0))
+print(fm.divide(1, 0))
+print(tm.divide(4, 2))
 

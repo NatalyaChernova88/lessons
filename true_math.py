@@ -5,8 +5,8 @@ def divide(first, second):
         return inf
     return first / second
 
-print(divide(5,0))
-print(divide(24,8))
+
 
 if __name__ == '__main__':
-    main()
+    print(divide(5, 0))
+    print(divide(24, 8))
